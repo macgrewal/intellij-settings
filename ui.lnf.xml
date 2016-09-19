@@ -3,6 +3,8 @@
     <option name="FONT_SIZE" value="22" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="EDITOR_AA_TYPE" value="No antialiasing" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
   </component>
