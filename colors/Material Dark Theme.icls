@@ -1,8 +1,8 @@
 <scheme name="Material Dark Theme" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -13295,12 +13295,6 @@
       <value>
         <option name="BACKGROUND" value="252b39" />
       </value>
-    </option>
-    <option name="RUBY_EXPR_IN_STRING">
-      <value />
-    </option>
-    <option name="RUBY_LINE_CONTINUATION">
-      <value />
     </option>
     <option name="SASS_IDENTIFIER">
       <value>
